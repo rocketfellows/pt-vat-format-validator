@@ -3,6 +3,7 @@
 namespace rocketfellows\PTVatFormatValidator\tests\unit;
 
 use PHPUnit\Framework\TestCase;
+use rocketfellows\PTVatFormatValidator\PTVatFormatValidator;
 
 class PTVatFormatValidatorTest extends TestCase
 {
