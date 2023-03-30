@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1680197322">
-  <project timestamp="1680197322">
+<coverage generated="1680197783">
+  <project timestamp="1680197783">
     <file name="/app/src/PTVatFormatValidator.php">
       <class name="rocketfellows\PTVatFormatValidator\PTVatFormatValidator" namespace="global">
         <metrics complexity="1" methods="1" coveredmethods="1" conditionals="0" coveredconditionals="0" statements="1" coveredstatements="1" elements="2" coveredelements="2"/>
